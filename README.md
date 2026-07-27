@@ -31,6 +31,6 @@ Aplikasi desktop manajemen penjualan album berbasis GUI yang dibuat menggunakan 
 
 ## 🚀 Cara Menjalankan Aplikasi
 
-1. **Clone repository ini:**
-   ```bash
-   git clone [https://github.com/azzahraftmh11/BTS-Album-Sales-Management-System-Desktop-App-.git] (https://github.com/azzahraftmh11/BTS-Album-Sales-Management-System-Desktop-App-.git)
+1.**Clone repository ini:**
+```bash
+git clone [https://github.com/azzahraftmh11/BTS-Album-Sales-Management-System-Desktop-App-.git](https://github.com/azzahraftmh11/BTS-Album-Sales-Management-System-Desktop-App-.git)
